@@ -1,13 +1,18 @@
 TUGAS 1 - PRAKTIKUM PEMROGRAMAN BERBASIS OBJECT / OOP
 
-IDENTITAS
++-------------+
+|  IDENTITAS  |
++-------------+
+
 Nama : Ardhian Kusumayuda
 
 NIM  : 123200144
 
 Plug : IF - F
 
-NOTE 
++-------------+
+|    NOTE     |
++-------------+
 
 Untuk file Main.java dan Konversi.java berada di folder konversiSuhu
 
